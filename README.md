@@ -4,7 +4,7 @@ This is an Android mobile application that allows users to self checkout at a su
 *This repository acts as a public view to this project, which, is otherwise stored in a private repository. The code can be viewed upon request. Enjoy!*
 
 ## Collaborators
-This is an individual project with no other collaborators
+This is an individually done project
 
 ## Languages and Tools used
 - Java language
